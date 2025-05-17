@@ -16,7 +16,7 @@ const Footer = () => {
             </p>
             <div className="flex gap-3">
               <a 
-                href="https://github.com/somegarbage"  //my github link
+                href="https://github.com/pri998"  //my github link
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-indigo-400 transition-colors"
@@ -24,7 +24,7 @@ const Footer = () => {
                 <FaGithub size={18} />
               </a>
               <a 
-                href="https://linkedin.com/in/somegarbage"  //my linkedin link
+                href="https://www.linkedin.com/in/priya998/"  //my linkedin link
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-indigo-400 transition-colors"
@@ -32,7 +32,7 @@ const Footer = () => {
                 <FaLinkedin size={18} />
               </a>
               <a 
-                href="https://instagram.com/somegarbage"  // my insta link
+                href="https://instagram.com"  // my insta link
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-indigo-400 transition-colors"

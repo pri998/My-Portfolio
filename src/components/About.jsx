@@ -31,10 +31,10 @@ export default function About() {
     👋Hi! I'm <strong> Priya Kumari </strong>, a final year B.Tech CSE student with a passion for solving real-world problems through tech.
   </p>
   <p class="mb-4 text-justify">
-    I'm currently diving deeper into CS fundamentals while building real-world solutions using full-stack tools, machine learning, and a bit of research magic along the way.
+    I'm currently deepening core computer science concepts while building real-world solutions using full-stack tools, machine learning, and a bit of research magic along the way.
   </p>
   <p class="mb-4 text-justify">
-    I've been a GoogleGirlHackathon'25 semi-finalist, Hack4Bengal'25 hackathon winner, AIR 26 in Aerothon'24, all while leading tech clubs like Google DSC and AlgoZenith. Thanks!!
+    I have been a semi-finalist at Google Girl Hackathon 2025, a winner at Hack4Bengal 2025, and secured AIR 26 in Aerothon 2024. I also led tech communities like Google DSC and AlgoZenith club, where I enjoyed mentoring peers and organizing impactful tech initiatives. Thanks!!
   </p>
   `;
 

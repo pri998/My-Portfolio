@@ -16,7 +16,7 @@ export default function Education() {
       icon: <FaUniversity size={24} className="text-indigo-400" />
     },
     {
-      type: "Class XII - CBSE",
+      type: "Class XII (PCM) - CBSE",
       institute: "Baldwin Academy",
       location: "Patna, India",
       period: "2019 - 2021",

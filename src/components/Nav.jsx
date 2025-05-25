@@ -32,9 +32,9 @@ export default function Nav() {
   const navLinks = [
     { name: "About", to: "about" },
     { name: "Experience", to: "experience" },
-    { name: "Projects", to: "projects" },
-    { name: "Education", to: "education" },
     { name: "Achievements", to: "achievements" },
+    { name: "Education", to: "education" },
+    { name: "Projects", to: "projects" },
     { name: "Contact", to: "contact" },
   ];
 

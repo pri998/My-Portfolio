@@ -37,16 +37,16 @@ const App = () => {
             <Experience />
           </div>
 
-          <div id="projects">
-            <Projects />
+          <div id="achievements">
+            <Achievements />
           </div>
 
           <div id="education">
             <Education />
           </div>
 
-          <div id="achievements">
-            <Achievements />
+          <div id="projects">
+            <Projects />
           </div>
 
           <div id="contact">

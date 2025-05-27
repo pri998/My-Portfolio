@@ -18,7 +18,7 @@ const achievementData = [
     title: "Walmart Codehers 2025",
     subtitle: "Ranked among top 6% in Round 1 among 113186 participants",
     description:
-      "Recognized for exceptional problem-solving skills and deep computer fundamentals understanding.",
+      "Recognized for exceptional problem-solving skills and deep computer fundamentals understanding, qualifying for final round.",
   },
   {
     title: "Aerothon 2024",

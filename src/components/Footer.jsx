@@ -71,16 +71,16 @@ const Footer = () => {
 
             <li>
               <ScrollLink
-                to="projects"
+                to="achievements"
                 smooth={true}
                 duration={500}
                 offset={-80}
                 className="cursor-pointer text-gray-300 hover:text-indigo-400 transition-colors"
               >
-                Projects
+                Achievements
               </ScrollLink>
             </li>
-            
+
             <li>
               <ScrollLink
                 to="education"
@@ -92,18 +92,20 @@ const Footer = () => {
                 Education
               </ScrollLink>
             </li>
-            
+
             <li>
               <ScrollLink
-                to="achievements"
+                to="projects"
                 smooth={true}
                 duration={500}
                 offset={-80}
                 className="cursor-pointer text-gray-300 hover:text-indigo-400 transition-colors"
               >
-                Achievements
+                Projects
               </ScrollLink>
             </li>
+            
+            
             <li>
               <ScrollLink
                 to="contact"

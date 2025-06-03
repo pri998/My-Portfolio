@@ -17,7 +17,7 @@ export default function About() {
     {
       icon: <FaDatabase />,
       title: "Database Management",
-      description: "Learning SQL and NoSQL databases to build efficient and scalable data-driven applications."
+      description: "Proficient in SQL and currently learning NoSQL databases to build efficient and scalable data-driven applications."
     },
     {
       icon: <FaBook />,

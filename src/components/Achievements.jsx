@@ -18,7 +18,7 @@ const achievementData = [
     title: "Vigyan Vidushi 2025",
     subtitle: "Selected among 36 nationwide",
     description:
-      "Earned the opportunity to attend Vigyan Vidushi 2025 at TIFR Mumbai, an advanced scholar program in Computer Science.",
+      "Earned the opportunity to be part of Vigyan Vidushi '25 at TIFR Mumbai, an advanced scholar program in Computer Science.",
   },
   {
     title: "Walmart Codehers 2025",

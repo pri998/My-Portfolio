@@ -15,6 +15,12 @@ const achievementData = [
       "Declared as winner (top 30 teams of virtual round) out of total 240+ teams for building something truly impactful.",
   },
   {
+    title: "Vigyan Vidushi 2025",
+    subtitle: "Selected among 36 nationwide",
+    description:
+      "Earned the opportunity to attend Vigyan Vidushi 2025 at TIFR Mumbai, an advanced science-scholar program in Computer Science.",
+  },
+  {
     title: "Walmart Codehers 2025",
     subtitle: "Ranked among top 6% in Round 1 among 113186 participants",
     description:

@@ -60,7 +60,7 @@ const achievementData = [
     title: "Extra curricular awards in school",
     subtitle: "1st runner-up in interschool music competition, Finalist in interschool chess competition, Winner of extempore, Winner of cookery show",
     description:
-      "Earned recognitions in exhibitions, debates & discussions, cultural events etc.",
+      "Earned recognitions in exhibitions, debates, cultural events etc.",
   },
 ];
 

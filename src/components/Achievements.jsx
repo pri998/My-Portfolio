@@ -52,9 +52,15 @@ const achievementData = [
   },
   {
     title: "Academic Excellence awards in school",
-    subtitle: "Rank 1 in Class X CBSE AISSCE, Among top 10 in Class XII CBSE AISSCE, various cultural activities winner",
+    subtitle: "Rank 1 in Class X CBSE AISSCE, Among top 10 in Class XII CBSE AISSCE",
     description:
       "Secured the top ranks at school level in the Class Xth and XIIth board examinations.",
+  },
+  {
+    title: "Extra curricular awards in school",
+    subtitle: "- 1st runner-up in interschool music competition,\n- Finalist in interschool chess competition,\n- First runner-up in extempore,\n- Winner of cookery show,\n- Participation in science exhibitions, debates & discussions, cultural events, and event hosting.",
+    description:
+      " ",
   },
 ];
 

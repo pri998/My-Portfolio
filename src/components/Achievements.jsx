@@ -51,7 +51,7 @@ const achievementData = [
       "Awarded for outstanding academic performance during my undergraduate studies.",
   },
   {
-    title: "School Achievements",
+    title: "Academic Excellence awards in school",
     subtitle: "Rank 1 in Class X CBSE AISSCE, Among top 10 in Class XII CBSE AISSCE, various cultural activities winner",
     description:
       "Secured the top ranks at school level in the Class Xth and XIIth board examinations.",

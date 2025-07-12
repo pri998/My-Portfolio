@@ -39,13 +39,13 @@ const achievementData = [
       "Awareded international scholarship to attend (GHC) world's largest gathering of women technologists.",
   },
   {
-    title: "Mentorships & Apprenticeship",
+    title: "Mentorships & Apprenticeships",
     subtitle: "Infosys Springboard Cohort 4 | SheFi Cohort 6",
     description:
       "Selected for prestigious mentorship programs, reflecting my tech dedication and potential.",
   },
   {
-    title: "Academic Excellence in college",
+    title: "Academic Excellence awards in college",
     subtitle: "Rank 4 (1st yr.) and Rank 7 (2nd yr.) in B.Tech",
     description:
       "Awarded for outstanding academic performance during my undergraduate studies.",

@@ -10,9 +10,9 @@ export default function Projects() {
   const projects = [
     {
       title: "BookLoop",
-      period: "Mar 2025 - Present",
+      period: "Apr 2025 - Jul 2025",
       description:
-        "Spearheading the development of BookLoop, a platform for book donation and knowledge-sharing, tackling the issue of underutilized books for educational purposes, with engagement features.",
+        "Spearheaded the development of BookLoop, a platform for book donation and knowledge-sharing, tackling the issue of underutilized books for educational purposes, with engagement features.",
       image: bookloop, 
       link: "https://a.com/bookloop",
       technologies: [
@@ -24,7 +24,7 @@ export default function Projects() {
     },
     {
       title: "DevVerse",
-      period: "Apr 2025 - May 2025",
+      period: "Mar 2025 - Apr 2025",
       description:
         "Developed an AI-powered virtual development pod to automate the conversion of unstructured RFPs into structured assets streamlining the tasks of various agents.",
       image: devVerse, 

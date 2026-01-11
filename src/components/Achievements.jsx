@@ -12,7 +12,7 @@ const achievementData = [
     title: "Hack4Bengal Hackathon 2025",
     subtitle: "Winner among 240+ teams",
     description:
-      "Declared as winner (top 30 teams of virtual round) out of total 240+ teams for building something truly impactful.",
+      "Declared as winner (top 30 teams of virtual round) out of total 240+ teams for building an impactful project.",
   },
   {
     title: "Vigyan Vidushi 2025",

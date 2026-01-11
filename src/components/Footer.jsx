@@ -31,14 +31,14 @@ const Footer = () => {
               >
                 <FaLinkedin size={18} />
               </a>
-              <a 
+              {/* <a 
                 href="https://instagram.com"  // my insta link
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-indigo-400 transition-colors"
               >
                 <FaInstagram size={18} />
-              </a>
+              </a> */}
             </div>
           </div>
           

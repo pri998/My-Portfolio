@@ -12,7 +12,7 @@ export default function About() {
     {
       icon: <FaServer />,
       title: "Web Technologies",
-      description: "Actively gaining hands-on experience with modern web technologies such as React.js, Node.js, and Express.js."
+      description: "Actively gaining hands-on experience with modern web technologies such as React.js, Node.js, and Express.js. Proficient in HTML, CSS, JS."
     },
     {
       icon: <FaDatabase />,

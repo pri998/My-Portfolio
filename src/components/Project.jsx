@@ -13,8 +13,7 @@ export default function Projects() {
       period: "Apr 2025 - Jul 2025",
       description:
         "Spearheaded the development of BookLoop, a platform for book donation and knowledge-sharing, tackling the issue of underutilized books for educational purposes, with engagement features.",
-      image: bookloop, 
-      link: "https://a.com/bookloop",
+      image: bookloop,
       technologies: [
         "React.js",
         "Node.js",
@@ -68,8 +67,7 @@ export default function Projects() {
       period: "Sep 2024 - Nov 2024",
       description:
         "Collaborated in a team to architect a multirotor UAV for payload delivery via manual & autonomous flight, achieving 90% test accuracy; presented at a national-level competition by SAE-INDIA.",
-      image: aerothon, 
-      link: "https://c.com/aerothon", 
+      image: aerothon,
       technologies: [
         "YOLO v9",
         "TensorFlow Lite",
@@ -145,17 +143,19 @@ export default function Projects() {
                     </span>
                   ))}
                 </div>
-                <div className="mt-auto">
-                  <a
-                    href={project.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 px-4 py-2 bg-indigo-600/20 hover:bg-indigo-600/30 text-indigo-300 font-medium rounded-lg transition-colors border border-indigo-500/30"
-                  >
-                    <FaGithub size={22} />
-                    <span>View on GitHub</span>
-                  </a>
-                </div>
+                {project.link && (
+                  <div className="mt-auto">
+                    <a
+                      href={project.link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-2 px-4 py-2 bg-indigo-600/20 hover:bg-indigo-600/30 text-indigo-300 font-medium rounded-lg transition-colors border border-indigo-500/30"
+                    >
+                      <FaGithub size={22} />
+                      <span>View on GitHub</span>
+                    </a>
+                  </div>
+                )}
               </div>
             </motion.div>
           ))}

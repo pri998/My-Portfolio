@@ -136,14 +136,14 @@ const Contact = () => {
                 </a>
                 
                 {/* Instagram */}
-                <a 
+                {/* <a 
                   href="https://instagram.com" //my insta link
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-neutral-800 hover:bg-indigo-600 p-2 rounded-lg text-neutral-400 hover:text-white transition-all"
                 >
                   <FaInstagram size={18} />
-                </a>
+                </a> */}
               </div>
             </div>
           </motion.div>
